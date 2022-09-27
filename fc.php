@@ -30,7 +30,7 @@
         }
     }
     function gg(){
-    layer.alert('您好！欢迎来到老A免费Q绑在线查询！本站由老A技术导航网供技术支持。', {
+    layer.alert('您好！欢迎来到免费Q绑在线查询！', {
   icon: 1,
   title: '公告',
   skin: 'layer-ext-moon'
