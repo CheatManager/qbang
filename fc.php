@@ -3,7 +3,7 @@
 <html lang="zh-cn"><head>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>老A免费Q绑在线查询-手机号码反查系统</title>
+<title>免费Q绑在线查询-手机号码反查系统</title>
 <meta name="keywords" content="Q绑在线查询,16亿q绑查询,Q绑8e数据库,16亿qq绑定数据查询,2021q绑在线查询,2021q绑在线查询,Q绑在线查询官网,,查q绑,查地址,免费Q绑,Q绑QQ查询">
 <meta name="description" content="在线Q绑查询手机号官网 输入QQ号即可查询 ">
 <link href="/static/css/bootstrap.min.css" rel="stylesheet">
